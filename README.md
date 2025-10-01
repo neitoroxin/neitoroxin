@@ -1,27 +1,31 @@
-<!-- Баннер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=welcome%20&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 ---
 
-## ⚡ Обо мне
-- 👨‍💻 Системный разработчик на **C/C++**
-- 🐧 Люблю **Linux** во всех его проявлениях
-- 🔐 Интересуюсь **информационной безопасностью**, реверсом и уязвимостями
-- 🧩 Фанат алгоритмов и оптимизаций
+## ⚡ About me
+- 👨‍💻 only c/c++
+- 🐧 artixlinux
+- 🔐 enjoy information security
+- 🧩 solve problems about olympiad programming everyday
+- 📐 love math so much
 
 ---
 
-## 🛠 Технологический стек  
+## 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,git,vim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/> -->
 </p>
 
 ---
 
-## 📊 Статистика  
+<!-- ## 📊 Статистика  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -30,22 +34,20 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5&column=7" />
-</p>
+</p> -->
 
 ---
 
-## 🎯 Мои интересы  
-- ⚡ **Системное программирование** (ядро, низкоуровневые утилиты)  
-- 🔍 **Реверс-инжиниринг** и анализ бинарей  
-- 🛡 **Кибербезопасность** и уязвимости  
-- 🧮 **Алгоритмы и оптимизация**  
+## 🎯 Goals
+- 🏆 **win the olympics in informatics**
+- 💡 **understand microcontroller programming**
+- 🛡 **address cybersecurity concerns**
 
 ---
 
-## 🌐 Контакты  
+## 🌐 Contacts, (🇷🇺,🇬🇧)
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/your_nickname"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/neitoroxin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
