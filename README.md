@@ -36,8 +36,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5&column=7" />
 </p> -->
 
----
-
 ## 🎯 Goals
 - 🏆 **win the olympics in informatics**
 - 💡 **understand microcontroller programming**
@@ -45,7 +43,7 @@
 
 ---
 
-## 🌐 Contacts, (🇷🇺,🇬🇧)
+## 🌐 Contacts (🇷🇺,🇬🇧)
 <p align="center">
   <a href="https://t.me/neitoroxin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
