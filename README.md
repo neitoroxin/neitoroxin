@@ -6,7 +6,7 @@
 
 ## ⚡ About me
 - 👨‍💻 only c/c++
-- 🐧 artixlinux
+- 🐧 linux
 - 🔐 enjoy information security
 - 🧩 solve problems about olympiad programming everyday
 - 📐 love math so much
